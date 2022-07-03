@@ -1,6 +1,6 @@
 # Stock-Analysis
 
-Stock analysis of VBA
+Stock analysis using VBA
 
 # Overview 
 
